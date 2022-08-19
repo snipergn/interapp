@@ -1,0 +1,21 @@
+.selected {
+  color: hsl(216, 12%, 8%);
+  padding: 15px 15px 10px 10px;
+  border-radius: 30px;
+  background-color: white;
+  font-size: 14px;
+}
+
+.containerApp {
+  text-align: center;
+  background-color: hsl(213, 19%, 18%);
+}
+
+.Image {
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.header {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
